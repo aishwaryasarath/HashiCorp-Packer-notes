@@ -1,4 +1,4 @@
-1. Install Packer and create the first ami
+## 1. Install Packer and create the first ami
 ```
 {
 
@@ -17,20 +17,20 @@
 }
 
 ```
-2. Build the code
+## 2. Build the code
 ```
 packer build ami.json
 ```
-3. The EC2 instance gets created: it goes from pending to running and then to stopped.
+## 3. The EC2 instance gets created: it goes from pending to running and then to stopped.
 
 ![image](https://user-images.githubusercontent.com/49971693/167227482-ff9746b4-83c6-49b1-9f2e-28462d4335e8.png)
 ![image](https://user-images.githubusercontent.com/49971693/167227487-bf929e96-9ff2-4301-a6b9-bd14a0d0e1ea.png)
 ![image](https://user-images.githubusercontent.com/49971693/167227498-a4fdb949-691f-464d-b895-92e99719be7a.png)
 
-4. The output on the terminal shows the AMI was created
+## 4. The output on the terminal shows the AMI was created
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/49971693/167227505-706eedd0-ff10-4814-8e5d-49d57e102d53.png">
 
-5. The AWS console also shows the AMI
+## 5. The AWS console also shows the AMI
 ![image](https://user-images.githubusercontent.com/49971693/167227596-34d831d8-5841-402c-b6d7-7ddce4d576f0.png)
 
-6. Delete the AMI from the console to avoid getting recurring charges
+## 6. Delete the AMI from the console to avoid getting recurring charges
