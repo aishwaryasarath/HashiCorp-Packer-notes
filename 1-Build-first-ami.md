@@ -33,4 +33,8 @@ packer build ami.json
 ## 5. The AWS console also shows the AMI
 ![image](https://user-images.githubusercontent.com/49971693/167227596-34d831d8-5841-402c-b6d7-7ddce4d576f0.png)
 
-## 6. Delete the AMI from the console to avoid getting recurring charges
+## 6. Create an EC2 instance with this AMI, ssh into it and verfiy that nginx is installed.
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/49971693/167230449-560c7537-9e7a-4d20-bc7b-1b1e5e737f68.png">
+
+
+## 7. Delete the AMI from the console to avoid getting recurring charges
