@@ -1,4 +1,4 @@
-# HashiCorp-Packer-demos
+# HashiCorp Packer demos
 Demo on Packer learning
 1. [Build First AMI](1-Build-first-ami.md)
 2. [Configuring Provisoiners](2-Configuring-provisioners.md)
