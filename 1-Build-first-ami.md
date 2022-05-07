@@ -37,4 +37,4 @@ packer build ami.json
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/49971693/167230449-560c7537-9e7a-4d20-bc7b-1b1e5e737f68.png">
 
 
-## 7. Delete the AMI from the console to avoid getting recurring charges
+## 7. Deregister the AMI & terminate the EC2 instance from the console to avoid getting recurring charges
