@@ -33,6 +33,7 @@ packer build provisioner.json
 ## 3. Outputs on terminal & AWS Console
 
 ![image](https://user-images.githubusercontent.com/49971693/167229506-b91ae526-3e6f-407f-aec2-a722fa3bb205.png)
+
 <img width="706" alt="image" src="https://user-images.githubusercontent.com/49971693/167229524-0845b8da-90c7-43c7-9c6f-685d1f24ae44.png">
 
 ## 4. Deregister the AMI to avoid charges
