@@ -36,4 +36,6 @@ packer build provisioner.json
 
 <img width="706" alt="image" src="https://user-images.githubusercontent.com/49971693/167229524-0845b8da-90c7-43c7-9c6f-685d1f24ae44.png">
 
-## 4. Deregister the AMI to avoid charges
+## 4. Create a new instance with AMI image created and check if nginx is installed 
+
+## 5. Deregister the AMI to avoid charges
